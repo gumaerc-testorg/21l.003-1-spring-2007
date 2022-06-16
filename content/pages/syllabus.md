@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, skills taught, grading, and the schedule of lecture
+  topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,11 +47,11 @@ Regular attendance and active participation in class. Participation includes res
 
 ### Assigned Readings
 
-All readings (books) for the class are available at the bookstore. These readings must be completed by the date they appear in the [readings]({{< baseurl >}}/pages/readings) table.
+All readings (books) for the class are available at the bookstore. These readings must be completed by the date they appear in the {{% resource_link 74ce4537-c4cf-d36b-8d37-7ae6a27bf65d "readings" %}} table.
 
 ### Assigned Writings
 
-Your assignments for class are recorded on the syllabus and listed in the [assignments]({{< baseurl >}}/pages/assignments) section. Unless otherwise directed, assignments must be submitted by 5pm in my mailbox on the due date. All papers should follow the [MLA format](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
+Your assignments for class are recorded on the syllabus and listed in the {{% resource_link 3285db00-7816-22c1-d9ee-fef2c0f378d0 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5pm in my mailbox on the due date. All papers should follow the [MLA format](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
 
 ### Writing Sessions
 
