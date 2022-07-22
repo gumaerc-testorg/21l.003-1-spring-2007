@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required texts for the course and
+  the schedule of readings by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 74ce4537-c4cf-d36b-8d37-7ae6a27bf65d
 ---
@@ -74,7 +79,7 @@ Tolstoy, Leo. _Anna Karenina_ (1877). Translated by Richard Pevear and Larissa V
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Mary Shelley
 {{< tdclose >}}
 {{< tdopen >}}
@@ -107,7 +112,7 @@ Poe, Edgar Allan. "The Fall of the House of Usher." In _The Fall of the House of
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Nathaniel Hawthorne
 {{< tdclose >}}
 {{< tdopen >}}
@@ -140,7 +145,7 @@ Workshop: Crafting an argument
 {{< tdopen >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 E. M. Forster
 {{< tdclose >}}
 {{< tdopen >}}
@@ -173,7 +178,7 @@ Lawrence, D. H. _Rocking Horse Winner_ (1926). Whitefish, MT: Kessinger Publishi
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Virginia Woolf
 {{< tdclose >}}
 {{< tdopen >}}
@@ -194,7 +199,7 @@ _To the Lighthouse_, "The Lighthouse."
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 William Faulkner
 {{< tdclose >}}
 {{< tdopen >}}
@@ -215,7 +220,7 @@ _As I Lay Dying_, pp. 141-end.
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 James Baldwin
 {{< tdclose >}}
 {{< tdopen >}}
@@ -254,7 +259,7 @@ McCullers, Carson. "A Domestic Dilemma." In _Collected Stories of Carson McCulle
 {{< tdopen >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Flannery O'Connor
 {{< tdclose >}}
 {{< tdopen >}}
@@ -275,7 +280,7 @@ _A Good Man is Hard to Find_, "Good Country People."
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Cristina Garcia
 {{< tdclose >}}
 {{< tdopen >}}
@@ -296,7 +301,7 @@ _Dreaming in Cuban_, pp. 127-end.
 {{< tdopen >}}
 23
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Toni Morrison
 {{< tdclose >}}
 {{< tdopen >}}
@@ -317,7 +322,7 @@ _Jazz_, pp. 89-end.
 {{< tdopen >}}
 25
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Arundhati Roy
 {{< tdclose >}}
 {{< tdopen >}}

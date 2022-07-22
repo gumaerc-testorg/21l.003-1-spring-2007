@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for the writing assignments of the
+  course, criteria for grading, and a note on plagiarism.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3285db00-7816-22c1-d9ee-fef2c0f378d0
 ---
