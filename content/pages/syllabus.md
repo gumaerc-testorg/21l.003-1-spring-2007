@@ -51,7 +51,7 @@ All readings (books) for the class are available at the bookstore. These reading
 
 ### Assigned Writings
 
-Your assignments for class are recorded on the syllabus and listed in the {{% resource_link 3285db00-7816-22c1-d9ee-fef2c0f378d0 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5pm in my mailbox on the due date. All papers should follow the [MLA format](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
+Your assignments for class are recorded on the syllabus and listed in the {{% resource_link 3285db00-7816-22c1-d9ee-fef2c0f378d0 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5pm in my mailbox on the due date. All papers should follow the {{% resource_link "79562706-4476-419d-8bba-ee1444fb61e6" "MLA format" %}}. These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
 
 ### Writing Sessions
 
