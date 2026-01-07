@@ -12,13 +12,13 @@ uid: 74ce4537-c4cf-d36b-8d37-7ae6a27bf65d
 Required Texts
 --------------
 
-Shelley, Mary. _Frankenstein_ (1818). New York, NY: Penguin Classics, 2003. ISBN: 9780141439471. The {{% resource_link "62c94d38-9184-46c2-beab-b2ca76a09a50" "e-text" %}} and {{% resource_link "5fd1caff-cb93-4034-9884-fe0cdd4768e9" "audio book" %}} are available at Project Gutenberg.
+Shelley, Mary. _Frankenstein_ (1818). New York, NY: Penguin Classics, 2003. ISBN: 9780141439471. The [e-text](http://www.gutenberg.org/etext/84) and [audio book](http://www.gutenberg.org/etext/20038) are available at Project Gutenberg.
 
-Hawthorn, Nathaniel. _The Scarlet Letter_ (1850). New York, NY: Penguin Classics, 2002. ISBN: 9780142437261. The {{% resource_link "db8a9531-7b18-4d6b-b084-2dca710e2751" "e-text" %}} is available at Project Gutenberg.
+Hawthorn, Nathaniel. _The Scarlet Letter_ (1850). New York, NY: Penguin Classics, 2002. ISBN: 9780142437261. The [e-text](http://www.gutenberg.org/etext/33) is available at Project Gutenberg.
 
-Forster, E. M. _Howard's End_ (1910). New York, NY: Penguin Modern Classics, 2000. ISBN: 9780141183350. The {{% resource_link "93953214-f7a3-4ea0-8bab-852febdfbc32" "e-text" %}} is available at Project Gutenberg.
+Forster, E. M. _Howard's End_ (1910). New York, NY: Penguin Modern Classics, 2000. ISBN: 9780141183350. The [e-text](http://www.gutenberg.org/etext/2891) is available at Project Gutenberg.
 
-Woolf, Virginia. _To the Lighthouse_ (1927). New York, NY: Harvest Books, 1989. ISBN: 9780156907392. The {{% resource_link "b4eb14df-65de-45f8-a616-a332b18e0fa6" "e-text" %}} is available at Project Gutenberg of Australia.
+Woolf, Virginia. _To the Lighthouse_ (1927). New York, NY: Harvest Books, 1989. ISBN: 9780156907392. The [e-text](http://gutenberg.net.au/ebooks01/0100101.txt) is available at Project Gutenberg of Australia.
 
 Faulkner, William. _As I Lay Dying_ (1930). New York, NY: Vintage, 1991. ISBN: 9780679732259.
 
@@ -71,7 +71,7 @@ Introduction
 Leo Tolstoy
 {{< tdclose >}}
 {{< tdopen >}}
-Tolstoy, Leo. _Anna Karenina_ (1877). Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Penguin Classics, 2003, chapter 1. ISBN: 9780140449174. The {{% resource_link "362cb73e-d79d-4f88-abf3-25f0703897f9" "e-text" %}} is available at Project Gutenberg.
+Tolstoy, Leo. _Anna Karenina_ (1877). Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Penguin Classics, 2003, chapter 1. ISBN: 9780140449174. The [e-text](http://www.gutenberg.org/etext/1399) is available at Project Gutenberg.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ _Frankenstein_, vol. 3.
 Edgar Allan Poe
 {{< tdclose >}}
 {{< tdopen >}}
-Poe, Edgar Allan. "The Fall of the House of Usher." In _The Fall of the House of Usher and Other Tales_ (1839). Edited by Stephen Marlowe. New York, NY: Signet Classics, 1998. ISBN: 9780451526755. Both the {{% resource_link "362cb73e-d79d-4f88-abf3-25f0703897f9" "e-text" %}} and {{% resource_link "6ec847f9-c084-4c47-9b3f-0ea56a809a31" "audio book" %}} are available at Project Gutenberg.
+Poe, Edgar Allan. "The Fall of the House of Usher." In _The Fall of the House of Usher and Other Tales_ (1839). Edited by Stephen Marlowe. New York, NY: Signet Classics, 1998. ISBN: 9780451526755. Both the [e-text](http://www.gutenberg.org/etext/1399) and [audio book](http://www.gutenberg.org/etext/6557) are available at Project Gutenberg.
 {{< tdclose >}}
 
 {{< trclose >}}
